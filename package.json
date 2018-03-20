@@ -1,0 +1,59 @@
+{
+  "name": "online-portfolio",
+  "version": "1.0.0",
+  "description": "My second online portfolio to showcase my front end skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Win-Myint/online-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "whatwg-fetch": "2.0.3"
+  },
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.4",
+    "babel-preset-latest": "6.24.1",
+    "babel-register": "6.26.0",
+    "chai": "3.5.0",
+    "chalk": "2.3.2",
+    "cheerio": "1.0.0-rc.2",
+    "compression": "1.7.2",
+    "cross-env": "5.1.4",
+    "css-loader": "0.28.11",
+    "eslint": "4.19.0",
+    "eslint-plugin-import": "2.9.0",
+    "eslint-watch": "3.1.3",
+    "express": "4.16.3",
+    "extract-text-webpack-plugin": "3.0.2",
+    "html-webpack-plugin": "3.0.7",
+    "jsdom": "11.6.2",
+    "json-schema-faker": "0.5.0-rc13",
+    "json-server": "0.12.1",
+    "localtunnel": "1.8.3",
+    "mocha": "5.0.4",
+    "nock": "9.2.3",
+    "npm-run-all": "4.1.2",
+    "nsp": "3.2.1",
+    "numeral": "2.0.6",
+    "open": "0.0.5",
+    "rimraf": "2.6.2",
+    "style-loader": "0.20.3",
+    "surge": "0.20.1",
+    "webpack": "4.1.1",
+    "webpack-dev-middleware": "3.0.1",
+    "webpack-hot-middleware": "2.21.2",
+    "webpack-md5-hash": "0.0.6"
+  },
+  "bugs": {
+    "url": "https://github.com/Win-Myint/online-portfolio/issues"
+  },
+  "homepage": "https://github.com/Win-Myint/online-portfolio#readme"
+}
